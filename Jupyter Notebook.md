@@ -26,10 +26,20 @@
     을 입력해 실행한다.
 
 
-
   #### 특징
 
     1. 코드를 cell단위로 작성 및 실행
     2. 마크다운을 통한 문서화
     3. 그래프나 표 등을 실시간으로 확인
     4. html, pdf 등 파일로 저장
+
+
+
+#### 단축키
+
+    Ctrl + Enter  현재 Cell 실행
+    Shift + Enter  현재 Cell 실행 후 다음 Cell 선택
+    Alt + Enter  현재 Cell 실행 후 다음 위치에 Cell 삽입
+    D, D  셀 삭제
+    Tab  코드완성 or 들여쓰기
+    B  아래에 셀 삽이
