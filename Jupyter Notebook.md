@@ -43,3 +43,10 @@
     D, D  셀 삭제
     Tab  코드완성 or 들여쓰기
     B  아래에 셀 삽이
+
+
+
+## HTML
+#### 주피터노트북에서는 . .
+%%HTML
+<iframe width="1014" height="570" src="https://www.youtube.com/embed/dJfq-eCi7KI" title="아나콘다 환경 설정 및 주피터 노트북 사용법" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
