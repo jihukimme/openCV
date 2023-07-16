@@ -50,3 +50,8 @@
 #### 주피터노트북에서는 . .
 %%HTML
 <iframe width="1014" height="570" src="https://www.youtube.com/embed/dJfq-eCi7KI" title="아나콘다 환경 설정 및 주피터 노트북 사용법" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+
+[주피터노트북 사용법](file:///C:/Users/JIHU/Desktop/%EA%B9%80%EC%A7%80%ED%9B%84%20%ED%8C%8C%EC%9D%BC/Coding/PythonImageWorkspace/%EC%A3%BC%ED%94%BC%ED%84%B0%20%EB%85%B8%ED%8A%B8%EB%B6%81%20%EC%82%AC%EC%9A%A9%EB%B2%95.html)
